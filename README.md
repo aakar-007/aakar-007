@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aakar-007
-- 👀 I’m interested in solving problems that adds value.
+- 👀 I’m interested in solving problems that add value.
 - 🌱 I’m currently learning python, ML, AI, Azure
 - 💞️ I’m looking to collaborate on haystack
 - 📫 How to reach me linkedin.com/aakarshah222
